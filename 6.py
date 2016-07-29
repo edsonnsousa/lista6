@@ -1,4 +1,3 @@
-# -*- coding: cp1252 -*-
 def main():
     frase=raw_input("Frase")
     extenso(frase)
